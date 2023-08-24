@@ -1,0 +1,2 @@
+https://github.com/amices/mice#vignettes
+https://www.gerkovink.com/miceVignettes/Ad_hoc_and_mice/Ad_hoc_methods.html

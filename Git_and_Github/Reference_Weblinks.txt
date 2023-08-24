@@ -1,0 +1,15 @@
+
+#.............
+# Online Books
+#.............
+
+https://www.bigbookofr.com/new-to-r-start-here#
+
+#..........
+# Tutorials
+#..........
+
+https://medium.com/analytics-vidhya/integrating-rstudio-with-github-1f931584548
+https://happygitwithr.com/
+https://support.posit.co/hc/en-us/articles/200532077
+https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/
